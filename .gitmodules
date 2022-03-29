@@ -1,0 +1,3 @@
+[submodule "UE4GitPlugin"]
+	path = UE4GitPlugin
+	url = git@github.com:Svengali/UE4GitPlugin.git
