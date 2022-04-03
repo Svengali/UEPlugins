@@ -22,3 +22,6 @@
 [submodule "RuntimeMeshComponent"]
 	path = RuntimeMeshComponent
 	url = git@github.com:Svengali/RuntimeMeshComponent.git
+[submodule "SimplexNoise"]
+	path = SimplexNoise
+	url = git@github.com:Svengali/SimplexNoise.git
