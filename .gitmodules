@@ -25,3 +25,6 @@
 [submodule "SimplexNoise"]
 	path = SimplexNoise
 	url = git@github.com:Svengali/SimplexNoise.git
+[submodule "Mods"]
+	path = Mods
+	url = git@github.com:Svengali/Mods.git
